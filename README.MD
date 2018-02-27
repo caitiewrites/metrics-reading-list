@@ -1,4 +1,4 @@
-Resources on best practices for designing metrics and how to store the data for those metrics.
+Resources on best practices for designing metrics & behavioural targeting.
 
 # Selecting good metrics
 * [Data Driven Products Now](http://mcfunley.com/data-driven-products-now) By former Etsy-ite Dan McKinley on how to determine the size of an opportunity, and methods to validate during the development cycle whether proceeding with an interesting idea is going to be worth it.
